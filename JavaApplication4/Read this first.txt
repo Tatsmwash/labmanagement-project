@@ -1,0 +1,4 @@
+Download and Install netbeans.
+Then in netbeans 
+Click file then open project 
+Then run it from netbeans
